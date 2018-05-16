@@ -1,0 +1,17 @@
+TOPIC
+    about_PSO365
+
+SHORT DESCRIPTION
+    Office 365 Management
+
+LONG DESCRIPTION
+    Office 365 Management
+
+EXAMPLES
+    TBD
+
+KEYWORDS
+    Office 365,Management,Provisioning
+
+SEE ALSO
+    https://github.com/rdtechie/PSO365

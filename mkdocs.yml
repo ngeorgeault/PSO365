@@ -1,0 +1,13 @@
+﻿use_directory_urls: false
+site_author: Richard Diphoorn
+copyright: PSO365 is licensed under <a href='https://github.com/rdtechie/PSO365/blob/master/License.md'>this</a> license
+theme: readthedocs
+site_name: PSO365 Docs
+pages:
+- Acknowledgements: Acknowledgements.md
+- ChangeLog: ChangeLog.md
+- Contributing: Contributing.md
+- index: index.md
+- Functions: Functions/Add-SharePointModernSite.md
+repo_url: https://github.com/rdtechie/PSO365
+
