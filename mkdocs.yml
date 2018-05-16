@@ -7,6 +7,6 @@ pages:
 - Acknowledgements: Acknowledgements.md
 - ChangeLog: ChangeLog.md
 - Contributing: Contributing.md
-- index: index.md
+- Index: index.md
 - Functions: Functions/Add-SharePointModernSite.md
 repo_url: https://github.com/rdtechie/PSO365
